@@ -665,6 +665,14 @@
 <!-- twilio -->
 <!-- stripe -->
 
+### Status Update
+
+I'm currently working on [cloudfs](https://github.com/khalidx/cfs), an easy way to discover and manage your cloud like a local filesystem!
+
+<a href="https://github.com/khalidx/cfs">
+  <img src="https://raw.githubusercontent.com/khalidx/cfs/main/logo.svg" width="350px">
+</a>
+
 ### Repositories
 
 Pinned repositories below are authored by me. Check out my [Github Stars](https://github.com/khalidx?tab=stars) for notable projects from around the internet!
