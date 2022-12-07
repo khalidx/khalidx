@@ -675,7 +675,9 @@ I'm currently working on [cloudfs](https://github.com/khalidx/cfs), an easy way 
 
 I'm also working on **tree**, a new language for computing, and the simplest language on the planet! It's in private beta.
 
-<img width="200px" src="img/tree-logo.svg" alt="Tree Project Logo">
+<a href="#">
+  <img src="img/tree-logo.svg" alt="Tree Project Logo" width="200px">
+</a>
 
 ### Repositories
 
