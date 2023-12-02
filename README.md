@@ -679,6 +679,10 @@ I'm also working on **tree**, a new language for computing, and the simplest lan
   <img src="img/tree-logo.svg" alt="Tree Project Logo" width="200px">
 </a>
 
+Can't figure out how to use ESM + TypeScript + ts-node + Node.JS? Feel like you've been running in circles with tutorials and blogs claiming to have the right config?
+Look no further. If you want a working config, check out [my gist with 490+ stars](https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc) ⭐️.
+You'll be up and running in no time!
+
 ### Repositories
 
 Pinned repositories below are authored by me. Check out my [Github Stars](https://github.com/khalidx?tab=stars) for notable projects from around the internet!
